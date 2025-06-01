@@ -36,3 +36,16 @@ Part 1: Hiding and decoding a text message within a grayscale image using Least 
 Part 2: Implementing template matching using normalized cross-correlation to locate specific Integrated Circuits (ICs) on a PCB image.
 
 Part 3: Using the MATLAB Classification Learner App to train and test a Linear SVM model for diabetes prediction.
+
+## Computer Assignment 4
+This project simulate a digital communication system using amplitude-shift keying (ASK).
+
+The assignment involves:
+
+Encoding: Creating a function (coding_amp) to convert an English text message into an analog signal by mapping binary data to different sine wave amplitudes.
+
+Decoding: Building a corresponding function (decoding_amp) that uses correlation to retrieve the original message from the signal.
+
+Noise Analysis: Investigating the system's performance by adding Gaussian noise to the signal.
+
+Performance Trade-off: Simulating at different bit rates (1, 2, and 3 bits/sec) to analyze the relationship between transmission speed and noise immunity
