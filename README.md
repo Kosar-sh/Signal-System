@@ -81,3 +81,7 @@ RLC Circuit Analysis: This part involves deriving the transfer function for a se
 Car Suspension Model: This exercise models a car's suspension system to analyze how the damping coefficient affects its stability when hitting a bump (impulse response). It compares undamped, critically damped, and overdamped cases.
 
 Solving Differential Equations: This section focuses on solving a second-order ordinary differential equation (ODE) with non-zero initial conditions using both the unilateral Laplace transform and MATLAB's symbolic tools.
+
+## Acknowledgments
+
+With sincere appreciation for the significant contributions of Paria Pasehvarz to these projects.
