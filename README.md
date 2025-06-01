@@ -59,3 +59,14 @@ Part 1: An introduction to the Fast Fourier Transform (FFT) in MATLAB. It covers
 
 Part 2: A simulation of a digital communication system using Frequency-Shift Keying (FSK). Information is encoded by transmitting sine waves at different frequencies.
 The simulation analyzes the system's robustness to noise at different bit rates (1 and 5 bits/sec).
+
+## Computer Assignment 6
+This project is about signal processing applications in radar and music synthesis.
+
+The assignment consists of two main parts:
+
+Part 1: Doppler Radar Simulation:
+This section involves simulating a radar to determine the distance and velocity of one or more moving objects. The method relies on using the Fast Fourier Transform (FFT) to analyze the frequency shift (Doppler effect) and phase of the returned signal.
+
+Part 2: Music Synthesis and Recognition:
+This part focuses on creating a piece of music by generating a sequence of sine waves at specific note frequencies. It also requires developing a method to automatically analyze a given music file to identify the notes and their timings.
