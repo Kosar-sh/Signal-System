@@ -49,3 +49,13 @@ Decoding: Building a corresponding function (decoding_amp) that uses correlation
 Noise Analysis: Investigating the system's performance by adding Gaussian noise to the signal.
 
 Performance Trade-off: Simulating at different bit rates (1, 2, and 3 bits/sec) to analyze the relationship between transmission speed and noise immunity
+
+## Computer Assignment 5
+This project is about the Fourier Transform and its application in digital communication.
+
+The project is divided into two parts:
+
+Part 1: An introduction to the Fast Fourier Transform (FFT) in MATLAB. It covers key concepts like frequency resolution, which depends on the signal's time duration (T), and the observable frequency range, which depends on the sampling rate (fs).
+
+Part 2: A simulation of a digital communication system using Frequency-Shift Keying (FSK). Information is encoded by transmitting sine waves at different frequencies.
+The simulation analyzes the system's robustness to noise at different bit rates (1 and 5 bits/sec).
