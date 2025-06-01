@@ -70,3 +70,14 @@ This section involves simulating a radar to determine the distance and velocity 
 
 Part 2: Music Synthesis and Recognition:
 This part focuses on creating a piece of music by generating a sequence of sine waves at specific note frequencies. It also requires developing a method to automatically analyze a given music file to identify the notes and their timings.
+
+##  Computer Assignment 7
+This project models and analyzes linear time-invariant (LTI) systems using Laplace transforms and validates the results with MATLAB and Simulink.
+
+The assignment includes three main exercises:
+
+RLC Circuit Analysis: This part involves deriving the transfer function for a series RLC circuit, calculating its step response analytically, and comparing the result with a Simulink simulation.
+
+Car Suspension Model: This exercise models a car's suspension system to analyze how the damping coefficient affects its stability when hitting a bump (impulse response). It compares undamped, critically damped, and overdamped cases.
+
+Solving Differential Equations: This section focuses on solving a second-order ordinary differential equation (ODE) with non-zero initial conditions using both the unilateral Laplace transform and MATLAB's symbolic tools.
